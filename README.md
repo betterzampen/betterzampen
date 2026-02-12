@@ -145,13 +145,13 @@ For setup instructions, coverage details, and examples, see our [Testing Guide](
 
 ## Contributing
 
-Thanks to all the people who are contributing to BetterZamPen!
+Thanks to all contributors from BetterGov.ph and BetterZamPen!
 
 <a href="https://github.com/betterzampen/betterzampen/graphs/contributors">
     <img src="https://contributors-img.web.app/image?repo=betterzampen/betterzampen&max=750&columns=20" />
 </a>
 
-Built on [BetterGov.ph](https://github.com/bettergovph/bettergov) - Special thanks to the BetterGov community for creating the foundation.
+**Note**: This includes contributors from the upstream [BetterGov.ph](https://github.com/bettergovph/bettergov) repository, whose work forms the foundation of BetterZamPen, plus contributors specific to our regional enhancements.
 
 ## License
 
